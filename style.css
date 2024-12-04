@@ -1,0 +1,6 @@
+/* Optional: For better control on small screens */
+@media (max-width: 576px) {
+    .navbar .form-control {
+        width: 100%; /* Full width on small screens */
+    }
+}
